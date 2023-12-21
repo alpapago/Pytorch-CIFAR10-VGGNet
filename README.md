@@ -1,3 +1,11 @@
+# Pytorch-CIFAR10-VGGNet
+
+CIFAR10 데이터셋을 이용하여 VGGNet구현
+
+VGGNet - https://arxiv.org/pdf/1409.1556.pdf
+
+
+===========
 # Tensorflow-CIFAR10
 
 CIFAR10 데이터셋을 이용하여 MLP 모델 만들고 훈련시키기<br>
