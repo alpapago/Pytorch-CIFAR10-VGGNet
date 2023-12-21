@@ -4,6 +4,7 @@ CIFAR10 데이터셋을 이용하여 VGGNet구현
 
 VGGNet - https://arxiv.org/pdf/1409.1556.pdf
 
+![image](https://github.com/alpapago/Pytorch-CIFAR10-VGGNet/assets/117890994/9c2fe2de-7015-4d5a-a61e-1f7470f0126e)
 
 ===========
 # Tensorflow-CIFAR10
